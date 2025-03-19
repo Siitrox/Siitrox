@@ -5,7 +5,7 @@ I often do CTFs with my team [RogueBytes](https://ctftime.org/team/282552) and I
 
 | Standouts                                                                | Personal accounts                           |
 | :---                                                                     | :----:                                      |
-| Finalist of the [CSCBE2024](https://platform.cybersecuritychallenge.be/) |  [Root-Me](https://www.root-me.org/Siitrox) |
+| Finalist of the [CSCBE2024](https://platform.cybersecuritychallenge.be/) |  [Root-Me](https://www.root-me.org/Siitrox-882674) |
 <br>
 
 ---
